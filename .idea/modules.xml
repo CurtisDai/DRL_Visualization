@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DRL_Visualization.iml" filepath="$PROJECT_DIR$/.idea/DRL_Visualization.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Reinforcement-learning-with-tensorflow-master/.idea/Reinforcement-learning-with-tensorflow-master.iml" filepath="$USER_HOME$/Desktop/Reinforcement-learning-with-tensorflow-master/.idea/Reinforcement-learning-with-tensorflow-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/spinningup-master/.idea/spinningup-master.iml" filepath="$USER_HOME$/Desktop/spinningup-master/.idea/spinningup-master.iml" />
+    </modules>
+  </component>
+</project>
